@@ -1,0 +1,19 @@
+The Task
+
+We'd like you to extend the front end application we've provided in this directory utilising the backend apis documented in the README.md
+
+We would like the following functionality implemented:
+
+Items can be added to and removed from the basket (ok)
+The quantity of an item in the basket can be increased and decreased (ok)
+A dynamic list of items in the user's current basket is displayed on the page. (ok)
+
+
+Questions
+Please answer the following questions: 
+
+What questions would you ask of the Product Owner in attempting to understand the scope of the requirements behind the above functionality?
+What would you add to your solution if you had more time? If you didn't have as much time as you would have like to on the coding test then use this as an opportunity to explain what you would add.
+What assumptions or decisions did you make during your implementation and why did you make them?
+How have you gained confidence that your implementation is correct?
+
